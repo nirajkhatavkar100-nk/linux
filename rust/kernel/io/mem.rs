@@ -45,7 +45,7 @@ impl<'a> IoRequest<'a> {
     ///
     /// [`ioremap()`]: https://docs.kernel.org/driver-api/device-io.html#getting-access-to-the-device
     ///
-    /// # Examples
+    /// # 
     ///
     /// The following example uses a [`kernel::platform::Device`] for
     /// illustration purposes.
